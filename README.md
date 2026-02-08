@@ -45,7 +45,7 @@ Slide	S / Down Arrow
 
 
 
-📌 Gameplay images are stored inside the Screenshots folder.
+
 
 Screenshots/
  ├── gameplay_1.png
@@ -53,7 +53,7 @@ Screenshots/
  ├── gameplay_3.png
  └── game_over.png
 
-🏙️ Gameplay Scene
+
 
 🪙 Coin Collection
 
@@ -78,7 +78,7 @@ Assets/
 
 Clone the repository
 
-git clone https://github.com/your-github-username/3d-runner-game.git
+
 
 
 Open Unity Hub
