@@ -1,36 +1,37 @@
-🏃‍♀️ 3D Runner Game (Unity)
+🏃‍♂️ 3D Runner Game
+by RunxoGames Studio
 
-A 3D endless runner game developed using Unity, where the player runs forward automatically, collects coins, avoids obstacles, and aims for the highest score possible.
+A high-quality 3D endless runner game developed using Unity, where players run forward automatically, collect coins, dodge obstacles, and aim for the highest score.
 
-📌 About the Game
+🎮 Game Overview
 
-The 3D Runner Game is an action-packed endless running game inspired by popular runner titles. The player must dodge obstacles, jump over barriers, and collect coins while the speed gradually increases.
+The 3D Runner Game by RunxoGames Studio is a fast-paced arcade runner designed with smooth controls, engaging gameplay, and scalable difficulty. The game challenges players’ reflexes while delivering an immersive 3D running experience.
 
-🎮 Gameplay Features
+✨ Key Features
 
-Endless running system
+🏃 Endless runner gameplay
 
-3D environment
+🌆 3D environment with dynamic obstacles
 
-Coin collection & scoring system
+🪙 Coin collection & scoring system
 
-Obstacle avoidance
+⚡ Increasing speed & difficulty
 
-Increasing difficulty over time
+🔁 Restart & Game Over system
 
-Game Over & Restart system
+🎵 Sound effects & background music
 
-Smooth player controls
+🎮 Smooth and responsive controls
 
-🛠️ Tech Stack
+🛠️ Technology Stack
 
-Engine: Unity 3D
+Game Engine: Unity 3D
 
 Programming Language: C#
 
 Platform: PC / Android
 
-IDE: Unity Editor, Visual Studio
+IDE: Unity Hub, Visual Studio
 
 🎮 Controls
 Action	Control
@@ -38,6 +39,24 @@ Move Left	A / Left Arrow
 Move Right	D / Right Arrow
 Jump	Space
 Slide	S / Down Arrow
+📸 Screenshots
+
+📌 Gameplay images are stored inside the Screenshots folder.
+
+Screenshots/
+ ├── gameplay_1.png
+ ├── gameplay_2.png
+ ├── gameplay_3.png
+ └── game_over.png
+
+🏙️ Gameplay Scene
+
+🪙 Coin Collection
+
+🚧 Obstacles & Challenges
+
+💀 Game Over Screen
+
 📂 Project Structure
 Assets/
  ├── Scripts/
@@ -51,23 +70,11 @@ Assets/
  ├── Audio/
  └── Materials/
 
-▶️ How to Play
+▶️ How to Run the Project
 
-Start the game
+Clone the repository
 
-Player runs automatically
-
-Collect coins to increase score
-
-Avoid obstacles
-
-Game ends when the player hits an obstacle
-
-🚀 How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/EBINBIJU22/ghost-fight
+git clone https://github.com/your-github-username/3d-runner-game.git
 
 
 Open Unity Hub
@@ -76,21 +83,21 @@ Click Open Project
 
 Select the project folder
 
-Open the main scene
+Open the main game scene
 
-Click Play
+Press ▶ Play
 
-🔮 Future Enhancements
+🚀 Planned Features
 
-Multiple characters
+🎭 Character selection system
 
-Power-ups (Magnet, Shield, Boost)
+🛡️ Power-ups (Shield, Magnet, Speed Boost)
 
-Multiple maps (City, Subway, Forest)
+🌍 Multiple environments (City, Subway, Forest)
 
-Leaderboard system
+🏆 Online leaderboard
 
-Sound & animation improvements
+🎨 Improved animations & VFX
 
 🤝 Contributing
 
@@ -101,7 +108,23 @@ Fork the repository and submit a pull request.
 
 This project is licensed under the MIT License.
 
-👨‍💻 Developer
+🏢 About RunxoGames Studio
 
-Developed by: EBIN BIJU
-Studio: RunxoGames Studio
+RunxoGames Studio is a professional game development company specializing in Unity games, multiplayer systems, and immersive gameplay experiences.
+
+🎮 Game Development Studio
+
+👨‍💻 Team Size: 10+ developers
+
+🌍 Serving multiple clients worldwide
+
+👨‍💼 Founder & CEO
+
+Ebin Biju
+Founder & CEO, RunxoGames Studio
+
+📬 Contact
+
+📧 Email: runxogames@gmail.com
+
+🌐 GitHub: https://github.com/your-github-username
