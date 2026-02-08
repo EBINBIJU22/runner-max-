@@ -67,7 +67,7 @@ Game ends when the player hits an obstacle
 
 Clone the repository:
 
-git clone https://github.com/your-username/3d-runner-game.git
+git clone https://github.com/EBINBIJU22/ghost-fight
 
 
 Open Unity Hub
