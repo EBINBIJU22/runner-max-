@@ -40,6 +40,10 @@ Move Right	D / Right Arrow
 Jump	Space
 Slide	S / Down Arrow
 📸 Screenshots
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/1edc3de1-d84b-4e1c-964a-dd7e59b968e9" />
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/27d5dea8-0658-439a-a41e-5ec0f6480f32" />
+
+
 
 📌 Gameplay images are stored inside the Screenshots folder.
 
